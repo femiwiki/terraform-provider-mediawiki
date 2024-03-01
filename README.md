@@ -1,0 +1,2 @@
+# terraform-provider-mediawiki
+💜
